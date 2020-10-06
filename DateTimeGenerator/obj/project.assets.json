@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PluginBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PluginBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginBase/1.0.0": {
+      "type": "project",
+      "path": "../PluginBase/PluginBase.csproj",
+      "msbuildProject": "../PluginBase/PluginBase.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PluginBase >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/helicoptera/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/DateTimeGenerator.csproj",
+      "projectName": "DateTimeGenerator",
+      "projectPath": "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/DateTimeGenerator.csproj",
+      "packagesPath": "/Users/helicoptera/.nuget/packages/",
+      "outputPath": "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/helicoptera/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj": {
+              "projectPath": "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj",
+              "excludeAssets": "runtime"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/helicoptera/.dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/DateTimeGenerator.csproj": {}
+  },
+  "projects": {
+    "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/DateTimeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/DateTimeGenerator.csproj",
+        "projectName": "DateTimeGenerator",
+        "projectPath": "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/DateTimeGenerator.csproj",
+        "packagesPath": "/Users/helicoptera/.nuget/packages/",
+        "outputPath": "/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/helicoptera/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj": {
+                "projectPath": "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj",
+                "excludeAssets": "runtime"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/helicoptera/.dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj",
+        "projectName": "PluginBase",
+        "projectPath": "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/PluginBase.csproj",
+        "packagesPath": "/Users/helicoptera/.nuget/packages/",
+        "outputPath": "/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/helicoptera/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/helicoptera/.dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
