@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/helicoptera/.dotnet/store/|arch|/|tfm|",
+      "/Users/helicoptera/.nuget/packages"
+    ]
+  }
+}

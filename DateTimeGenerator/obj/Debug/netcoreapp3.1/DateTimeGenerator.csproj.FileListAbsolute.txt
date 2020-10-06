@@ -1,0 +1,9 @@
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/bin/Debug/netcoreapp3.1/DateTimeGenerator.deps.json
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/bin/Debug/netcoreapp3.1/DateTimeGenerator.dll
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/bin/Debug/netcoreapp3.1/DateTimeGenerator.pdb
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/Debug/netcoreapp3.1/DateTimeGenerator.csprojAssemblyReference.cache
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/Debug/netcoreapp3.1/DateTimeGenerator.AssemblyInfoInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/Debug/netcoreapp3.1/DateTimeGenerator.AssemblyInfo.cs
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/Debug/netcoreapp3.1/DateTimeGenerator.csproj.CoreCompileInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/Debug/netcoreapp3.1/DateTimeGenerator.dll
+/Users/helicoptera/Desktop/MPP/Faker/DateTimeGenerator/obj/Debug/netcoreapp3.1/DateTimeGenerator.pdb

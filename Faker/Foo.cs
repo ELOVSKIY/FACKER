@@ -10,7 +10,7 @@ namespace Faker
         public string y;
         // public List<Bar> z;
         public Bar z;
-        public DateTime Num { get; }
+        public DateTime Num { get; set; }
 
         public Foo(int x, DateTime num)
         {

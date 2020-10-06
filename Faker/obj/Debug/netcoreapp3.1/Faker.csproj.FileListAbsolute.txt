@@ -1,0 +1,15 @@
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/Faker.deps.json
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/Faker.runtimeconfig.json
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/Faker.runtimeconfig.dev.json
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/Faker.dll
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/Faker.pdb
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/PluginBase.dll
+/Users/helicoptera/Desktop/MPP/Faker/Faker/bin/Debug/netcoreapp3.1/PluginBase.pdb
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.csprojAssemblyReference.cache
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.AssemblyInfoInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.AssemblyInfo.cs
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.csproj.CoreCompileInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.csproj.CopyComplete
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.dll
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.pdb
+/Users/helicoptera/Desktop/MPP/Faker/Faker/obj/Debug/netcoreapp3.1/Faker.genruntimeconfig.cache

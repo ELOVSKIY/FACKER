@@ -1,0 +1,9 @@
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/bin/Debug/netcoreapp3.1/BaseTypeGenerator.deps.json
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/bin/Debug/netcoreapp3.1/BaseTypeGenerator.dll
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/bin/Debug/netcoreapp3.1/BaseTypeGenerator.pdb
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/obj/Debug/netcoreapp3.1/BaseTypeGenerator.csprojAssemblyReference.cache
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/obj/Debug/netcoreapp3.1/BaseTypeGenerator.AssemblyInfoInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/obj/Debug/netcoreapp3.1/BaseTypeGenerator.AssemblyInfo.cs
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/obj/Debug/netcoreapp3.1/BaseTypeGenerator.csproj.CoreCompileInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/obj/Debug/netcoreapp3.1/BaseTypeGenerator.dll
+/Users/helicoptera/Desktop/MPP/Faker/BaseTypeGenerator/obj/Debug/netcoreapp3.1/BaseTypeGenerator.pdb

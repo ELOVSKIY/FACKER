@@ -1,0 +1,9 @@
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/bin/Debug/netcoreapp3.1/PluginBase.deps.json
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/bin/Debug/netcoreapp3.1/PluginBase.dll
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/bin/Debug/netcoreapp3.1/PluginBase.pdb
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/Debug/netcoreapp3.1/PluginBase.csprojAssemblyReference.cache
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/Debug/netcoreapp3.1/PluginBase.AssemblyInfoInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/Debug/netcoreapp3.1/PluginBase.AssemblyInfo.cs
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/Debug/netcoreapp3.1/PluginBase.csproj.CoreCompileInputs.cache
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/Debug/netcoreapp3.1/PluginBase.dll
+/Users/helicoptera/Desktop/MPP/Faker/PluginBase/obj/Debug/netcoreapp3.1/PluginBase.pdb
